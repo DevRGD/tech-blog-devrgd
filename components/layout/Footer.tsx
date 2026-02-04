@@ -18,7 +18,6 @@ export default function Footer() {
       title: 'Company',
       links: [
         { name: 'About Us', href: '/about' },
-        { name: 'Authors', href: '/authors' },
         { name: 'Careers', href: '#' },
         { name: 'Contact', href: '#' },
       ],
